@@ -7,8 +7,8 @@ Key Components:
 Programming Language: Python, chosen for its simplicity and extensive libraries.
 
 Libraries Used: 
-    OpenCV for image processing
-    Numpy for numerical operations
+    OpenCV for image processing,
+    Numpy for numerical operations,
     Keras for recognizing digits from the Sudoku grid.
 
 Execution:
